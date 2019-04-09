@@ -29,11 +29,11 @@ function getShortMessages(messages) {
 
 module.exports = getShortMessages
 
-function checkUsersValid(goodUsers) {
-    return function allUsersValid(submittedUsers) {
-        return submittedUsers.every(function(submittedUsers){
-            return goodUsers.some(function(goodUsers){
-                return goodUsers.id === submittedUsers.id
+function checkUsersValid(gUsers) {
+    return function allUsersValid(Users) {
+        return Users.every(function(Users){
+            return gUsers.some(function(gUsers){
+                return gUsers.id === Users.id
             })
         })
     };
