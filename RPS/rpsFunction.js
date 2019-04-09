@@ -67,5 +67,6 @@ function playTournament(player1, player2, player3, player4, playUntil)
 }
 function myFunction(){
 var playUntil = prompt("How many games will the computers play?")
-document.write(playTournament(player1,player2,player3,player4, playUntil));
+document.querySelector('#w1').textContent = playTournament(player1,player2,player3,player4, playUntil)
+document.querySelector('button').style.display = 'none';
 }
