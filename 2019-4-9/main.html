@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+           
+            @keyframes argh-my-eyes {
+                0%   { background-color: red; }
+              49% { background-color: #fff; }
+              50% { background-color: green; }
+              100% { background-color: black; }
+            }
+             @keyframes diss {
+             0% {opacity: 1}
+             50%{opacity: 0}
+             }
+            
+            body {
+            animation: argh-my-eyes 10s infinite;
+          }
+          #w1,button{
+            animation: diss 10s infinite;
+          }
+          </style>
+          <script>alert("Seizure Warning")</script>
+</head>
+<body style="background-color: limegreen">
+    <center>
+    <span id="w1" style="font-size : 200px">
+        <button style="font-size : 150px; width: 100%; height: 100px; height:700px;width:800px;background-color: purple; margin-top: auto; margin-bottom: auto" onclick="myFunction()">Start</button>
+    <script src="main.js"></script>
+    </span>
+    </center>
+    <button style="width : 100%; height: 100%;" onclick="document.body.style.animationDuration = '5s'; this.style.visibility = 'hidden'; document.querySelector('#w1').style.animationDuration = '5s'">This is a very good button. You should click it and see what happens</button>
+</body>
+</html>
