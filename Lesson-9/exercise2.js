@@ -7,16 +7,17 @@ $(document).ready(function() {
       const message = $("#message");
       const phone = $("#phone");
   
-      const required = [name, email, phone];
+      const user = [name, email, phone];
   
-      for (let i = 0; i < required.length; i++) {
-        if (required[i].val() == "") {
+      while (i < user.length) {
+        if (user[i].val() == "") {
           $(message).text("Please Fill Out Required Fields").addClass(
             'warning');
-          required[i].prev().addClass('warning');
+          user[i].prev().addClass('warning');
         } else {
-          required[i].prev().removeClass('warning');
+          user[i].prev().removeClass('warning');
         }
+        i++;
       }
   
       if (!$("#form label").hasClass('warning')) {
