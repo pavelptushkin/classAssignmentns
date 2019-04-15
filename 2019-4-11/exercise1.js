@@ -1,0 +1,11 @@
+console.log($("header"));
+console.log($("section"));
+let current = $(".current");
+console.log(current);
+current.next();
+console.log(current);
+current.prev().find("h2");
+console.log(current);
+console.log($(".highlight").parent().parent());
+let allH2 = Array.from($("section:has(h2)"));
+console.log(allH2);
