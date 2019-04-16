@@ -14,7 +14,7 @@ var time = require("./TimeStamp");
 // }, 3000);
 
 setInterval(() => {
-    data.getPost();
+    data.getPost(1);
     time.getTime();    
 }, 3000);
 

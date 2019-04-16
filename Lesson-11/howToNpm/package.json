@@ -1,0 +1,16 @@
+{
+  "name": "@user/howtonpm",
+  "version": "1.0.1",
+  "description": "howtonpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "unknown",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "google.com"
+}
