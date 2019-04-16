@@ -1,0 +1,17 @@
+{
+  "name": "lesson-11",
+  "version": "1.0.0",
+  "description": "first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "unknown",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "request-promise": "latest"
+  }
+}
