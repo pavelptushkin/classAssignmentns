@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#example {
+    padding : 100px;
+    background: red;
+    color: white;
+    font-size: 36px;
+}
