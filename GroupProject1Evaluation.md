@@ -13,6 +13,6 @@ In this project I have accomplished creating a React application with a group of
 
 ## __Challenges__
 
-By doing this project I noticed that I am not as interested in CSS but it is just as important for a project as anything else. Next project I could do better by interacting more with the CSS and HTML to be more versatily for upcoming projects.
+By doing this project I noticed that I am not as interested in CSS but it is just as important for a project as anything else. Next project I could do better by interacting more with the CSS to be more versatily for upcoming projects.
 
 
