@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 
 public class AsciiChars {
     public static int printNumbersAndLetters()
@@ -39,6 +36,46 @@ public class AsciiChars {
         return answer;
     }
 
+    public static int tryCatchInt()
+    {
+        Scanner scanner = new Scanner(System.in);
+        int answer = 0;
+        while(true)
+        {
+            try
+            {
+                answer = scanner.nextInt();
+                break;
+            }
+            catch (InputMismatchException e)
+            {
+                System.out.println("Looking for an integer try again.");
+                scanner.nextLine();
+            }
+
+        }
+        return answer;
+    }
+    public static String tryCatchStr(){
+        Scanner scanner = new Scanner(System.in);
+        String answer = "";
+        while(true)
+        {
+            try
+            {
+                answer = scanner.next("[a-zA-Z]*");
+                break;
+            }
+            catch (InputMismatchException e)
+            {
+                System.out.println("Input cannot be an integer, try again.");
+                scanner.nextLine();
+            }
+
+        }
+        return answer;
+    }
+
     public static void askQuestions(String s)
     {
         Random rnd = new Random();
@@ -52,25 +89,25 @@ public class AsciiChars {
         if (s.toLowerCase().charAt(0) == 'y') {
             while (s.toLowerCase().charAt(0) == 'y') {
                 System.out.println("Do you have a red car? Y/N");     // type a word and hit enter
-                String userCity = scanner.next();
+                String userCity = tryCatchStr();
                 System.out.println("What is the name of your favorite pet? ");
-                String userPetName = scanner.next();
+                String userPetName = tryCatchStr();
                 luckyNumbers[0] = (int)userPetName.toLowerCase().charAt(2);
                 luckyNumbers[1] = 42;
                 System.out.println("What is the age of your favorite pet?");
-                int userPetAge = scanner.nextInt();
+                int userPetAge = tryCatchInt();
                 System.out.println("What is your lucky number?");
-                int userLuckyNumber = scanner.nextInt();
+                int userLuckyNumber = tryCatchInt();
                 System.out.println("Do you have a favorite quarterback? If so what is their jersey number?");
-                int userQbNumber = scanner.nextInt();
+                int userQbNumber = tryCatchInt();
                 System.out.println("What is the two digit model of your car?");
-                int userCarModel = scanner.nextInt();
+                int userCarModel = tryCatchInt();
                 luckyNumbers[2] = userPetAge + userCarModel;
                 System.out.println("What is the first name of your favorite actor or actress?");
-                String userActor = scanner.next();
+                String userActor = tryCatchStr();
                 luckyNumbers[3] = (int)userActor.toLowerCase().charAt(0);
                 System.out.println("Enter a random number between 1 and 50");
-                int userRnd = scanner.nextInt();
+                int userRnd = tryCatchInt();
                 if (rndNumbers[1] > userRnd)
                 luckyNumbers[4] = rndNumbers[1] - userRnd;
                 else luckyNumbers[4] = userRnd - rndNumbers[1];

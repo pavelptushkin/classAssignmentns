@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66c41d7f-53c2-4d20-ba45-0596dc2fea5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/DataStructuresExcercise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/src/TitusExcercise.java" afterDir="false" />
+    <list default="true" id="c46fde85-4c4c-4cd2-8a62-44de7d609bd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresExcercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TitusExcercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bookshelf/myBooks" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookshelf/myBooks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../HashMapExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HashMapExample/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaGroupProject/AsciiChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaGroupProject/AsciiChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AsciiChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AsciiChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/out/production/JavaGroupProject/AsciiChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/out/production/JavaGroupProject/AsciiChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/src/AsciiChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/src/AsciiChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RatingQuestRedux/questionScores" beforeDir="false" afterPath="$PROJECT_DIR$/../RatingQuestRedux/questionScores" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,25 +23,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaGroupProject" />
-  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/AsciiChars.java">
+        <entry file="file://$PROJECT_DIR$/src/TitusExcercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+            <state relative-caret-position="476">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,8 +52,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/AsciiChars.java" />
+        <option value="$PROJECT_DIR$/src/TitusExcercise.java" />
       </list>
     </option>
   </component>
@@ -82,13 +72,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="JavaGroupProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaGroupProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaGroupProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaGroupProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructuresExcercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresExcercise" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -100,8 +85,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558707786645" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ControlFlowLab" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558707786770" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -119,16 +103,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaGroupProject" />
+    <configuration name="TitusExcercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TitusExcercise" />
+      <module name="DataStructuresExcercise" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TitusExcercise" />
       </list>
     </recent_temporary>
   </component>
@@ -137,34 +121,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="66c41d7f-53c2-4d20-ba45-0596dc2fea5c" name="Default Changelist" comment="" />
-      <created>1558456461753</created>
+      <changelist id="c46fde85-4c4c-4cd2-8a62-44de7d609bd4" name="Default Changelist" comment="" />
+      <created>1558700859267</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558456461753</updated>
-      <workItem from="1558456466348" duration="27050000" />
+      <updated>1558700859267</updated>
+      <workItem from="1558700863941" duration="1554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27050000" />
+    <option name="totallyTimeSpent" value="1554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
-      <window_info id="Favorites" sideWeight="0.5019763" side_tool="true" weight="0.2494331" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" weight="0.2494331" />
-      <window_info id="Structure" order="1" sideWeight="0.5019763" side_tool="true" weight="0.2494331" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2494331" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32980132" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32980132" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -187,46 +170,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/TitusExcercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AsciiChars.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="106" column="48" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

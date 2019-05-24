@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0918532e-fe14-4786-9fba-837023e668b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGroupProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGroupProject/src/AsciiChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaGroupProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/DataStructuresExcercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataStructuresExcercise/src/TitusExcercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bookshelf/myBooks" beforeDir="false" afterPath="$PROJECT_DIR$/../Bookshelf/myBooks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlowLab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ControlFlowLab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/out/production/JavaGroupProject/AsciiChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/out/production/JavaGroupProject/AsciiChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGroupProject/src/AsciiChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaGroupProject/src/AsciiChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../RatingQuestRedux/questionScores" beforeDir="false" afterPath="$PROJECT_DIR$/../RatingQuestRedux/questionScores" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -77,7 +82,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558626587364" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558707786709" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -118,16 +123,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558616281477</updated>
-      <workItem from="1558616285198" duration="1118000" />
+      <workItem from="1558616285198" duration="2388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1118000" />
+    <option name="totallyTimeSpent" value="2388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -166,8 +170,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/example1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
